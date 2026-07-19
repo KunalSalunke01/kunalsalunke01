@@ -1,38 +1,70 @@
-## Hi 👋, I'm Kunal
+# Hi 👋, I'm Kunal Salunke
 
-<!--
-**KunalSalunke01/kunalsalunke01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data & Business Analyst | SQL • Python • Power BI
 
-Here are some ideas to get you started:
+I'm passionate about analyzing data to solve business problems and support data-driven decision-making. I enjoy working with SQL, Python, and Power BI to uncover insights, build dashboards, and communicate findings through clear visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsalunke01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalsalunke1384@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kunalsalunke01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kunalsalunke01&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalsalunke01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kunalsalunke01&theme=radical&no-frame=true&no-bg=true&margin-w=4)
--->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📊 Building end-to-end analytics projects using SQL, Python, and Power BI
+- 🌱 Currently working on an E-Commerce Analytics project using the Olist dataset
+- 💼 Interested in Data Analyst, Business Analyst, and BI Analyst roles
+- 📫 Reach me at: **kunalsalunke1384@gmail.com**
 
 ---
-<!--
-[![](https://komarev.com/ghpvc/?username=kunalsalunke01&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/Olist-Ecommerce)** *(In Progress)* | End-to-end retail analytics project covering SQL, Python, and Power BI. | SQL • Python • Power BI |
+| 📦 **[Zepto Product Data Analysis](https://github.com/KunalSalunke01/zepto-product-data-analysis-sql)** | SQL analysis of pricing, discounts, inventory, and category performance. | PostgreSQL |
+| 📈 **[Superstore Sales & Profit Dashboard](https://github.com/KunalSalunke01/Superstore-Sales-Profit-Analysis-PowerBI)** | Interactive dashboard analyzing sales, profitability, and discount impact. | Power BI |
+| 📉 **[Telco Customer Churn Analysis](https://github.com/KunalSalunke01/Telco-Customer-Churn-Analysis-PowerBI)** | Customer churn dashboard with retention insights. | Power BI |
+| 📱 **[Mobile Sales Analysis](https://github.com/KunalSalunke01/Mobile-Sales-Analysis-PowerBI)** | Sales dashboard exploring customer behavior and regional performance. | Power BI |
+| 🐍 **[Superstore Sales EDA](https://github.com/KunalSalunke01/superstore-sales-eda-python)** *(Coming Soon)* | Exploratory Data Analysis using Python. | Python • Pandas |
+| 🛍️ **[Diwali Sales EDA](https://github.com/KunalSalunke01/diwali-sales-eda-python)** *(Coming Soon)* | Customer purchasing behavior analysis using Python. | Python • Pandas |
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsalunke01)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalsalunke1384@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Databases
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+
+### Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+
+### Tools
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=kunalsalunke01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalsalunke01&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+### Thanks for visiting! ⭐
+If you find my projects interesting, feel free to explore my repositories and connect with me on LinkedIn.
