@@ -7,8 +7,8 @@ I'm passionate about analyzing data to solve business problems and support data-
 - 📊 Building end-to-end analytics projects using SQL, Python, and Power BI
 - 🌱 Currently working on an E-Commerce Analytics project using the Olist dataset
 - 💼 Interested in Data Analyst, Business Analyst, and BI Analyst roles
-- 📫 Reach me at: **kunalsalunke1384@gmail.com**
-
+- 📫 Reach me at: **kunalsalunkeofficial@gmail.com**
+- 🌐 Portfolio: https://kunalsalunke.vercel.app/
 ---
 
 ## 🚀 Featured Projects
@@ -16,6 +16,7 @@ I'm passionate about analyzing data to solve business problems and support data-
 | Project | Description | Tools |
 |---------|-------------|-------|
 | 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/Olist-Ecommerce)** *(In Progress)* | End-to-end retail analytics project covering SQL, Python, and Power BI. | SQL • Python • Power BI |
+| 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/olist-ecommerce-sql-analysis)** | End-to-end SQL analytics project covering data cleaning, business insights, and executive dashboards. | SQL |
 | 📦 **[Zepto Product Data Analysis](https://github.com/KunalSalunke01/zepto-product-data-analysis-sql)** | SQL analysis of pricing, discounts, inventory, and category performance. | PostgreSQL |
 | 📈 **[Superstore Sales & Profit Dashboard](https://github.com/KunalSalunke01/Superstore-Sales-Profit-Analysis-PowerBI)** | Interactive dashboard analyzing sales, profitability, and discount impact. | Power BI |
 | 📉 **[Telco Customer Churn Analysis](https://github.com/KunalSalunke01/Telco-Customer-Churn-Analysis-PowerBI)** | Customer churn dashboard with retention insights. | Power BI |
@@ -28,8 +29,8 @@ I'm passionate about analyzing data to solve business problems and support data-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsalunke01)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalsalunke1384@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalsalunkeofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4.svg?logo=googlechrome&logoColor=white)](https://kunalsalunke.vercel.app/)
 ---
 
 ## 💻 Tech Stack
