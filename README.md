@@ -15,8 +15,7 @@ I'm passionate about analyzing data to solve business problems and support data-
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/Olist-Ecommerce)** *(In Progress)* | End-to-end retail analytics project covering SQL, Python, and Power BI. | SQL • Python • Power BI |
-| 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/olist-ecommerce-sql-analysis)** | End-to-end SQL analytics project covering data cleaning, business insights, and executive dashboards. | SQL |
+| 🛒 **[Olist E-Commerce Analysis](https://github.com/KunalSalunke01/olist-ecommerce-sql-analysis)** | End-to-end retail analytics project covering data cleaning, business insights, executive dashboards and BI report. | SQL • Power BI • DAX • Power Query |
 | 📦 **[Zepto Product Data Analysis](https://github.com/KunalSalunke01/zepto-product-data-analysis-sql)** | SQL analysis of pricing, discounts, inventory, and category performance. | PostgreSQL |
 | 📈 **[Superstore Sales & Profit Dashboard](https://github.com/KunalSalunke01/Superstore-Sales-Profit-Analysis-PowerBI)** | Interactive dashboard analyzing sales, profitability, and discount impact. | Power BI |
 | 📉 **[Telco Customer Churn Analysis](https://github.com/KunalSalunke01/Telco-Customer-Churn-Analysis-PowerBI)** | Customer churn dashboard with retention insights. | Power BI |
